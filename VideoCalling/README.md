@@ -6,4 +6,4 @@
 
 # How final output looks like
 
-![Alt text](/VideoCalling/images/to/i1.png)
+![Alt text](/images/to/i1.png)
