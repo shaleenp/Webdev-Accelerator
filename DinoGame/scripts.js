@@ -1,10 +1,13 @@
+
+alert("Start the game?")
+const gamebox=document.getElementById("gamebox");
+setTimeout("Starts in 3,2,1",3000);
 const dino = document.getElementById("dino");
 const cactus = document.getElementById("cactus");
-
 function jump() {
   if (dino.classList != "jump") {
     dino.classList.add("jump");
-
+ 
     setTimeout(function () {
       dino.classList.remove("jump");
     }, 300);
